@@ -24,7 +24,14 @@ Dibuat sebagai proyek *Full Stack Web Development* menggunakan framework **Larav
 -   **Database:** MySQL
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
+| Dashboard Utama | Mode Edit |
+| :---: | :---: |
+| ![Dashboard](screenshots/dashboard.png) | ![Mode Edit](screenshots/profile.png) |
+
+**Tampilan Login:**
+![Login Page](screenshots/login.png)
 
 ## 📦 Cara Install (Local)
 
