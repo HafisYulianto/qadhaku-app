@@ -33,6 +33,13 @@ Route::middleware(['auth', 'verified'])->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+    
 });
+
+// Google Login Routes
+use App\Http\Controllers\SocialiteController;
+
+Route::get('/auth/google', [SocialiteController::class, 'redirect'])->name('google.login');
+Route::get('/auth/google/callback', [SocialiteController::class, 'callback']);
 
 require __DIR__.'/auth.php';
