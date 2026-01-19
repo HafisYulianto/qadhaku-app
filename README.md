@@ -64,4 +64,4 @@ Dibuat sebagai proyek *Full Stack Web Development* menggunakan framework **Larav
     ```
 
 ---
-Dibuat dengan ❤️ oleh **[Nama Kamu]**.
+Dibuat dengan ❤️ oleh **Hafis Yulianto**.
