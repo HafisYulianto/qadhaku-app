@@ -25,7 +25,6 @@ Dibuat sebagai proyek *Full Stack Web Development* menggunakan framework **Larav
 
 ## 📸 Screenshots
 
-*(Nanti kamu bisa upload screenshot aplikasi di sini agar lebih menarik)*
 
 ## 📦 Cara Install (Local)
 
